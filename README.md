@@ -14,7 +14,7 @@ This repo can be used to deploy [Open Web Analytics](http://www.openwebanalytics
 | OWA_DB_NAME | The database name from the MySQL database |
 | OWA_DB_USER | The username from the MySQL database |
 | OWA_DB_PASSWORD | The password from the MySQL database |
-| OWA_DB_PORT | ‘3306’ |
+| OWA_DB_PORT | Originally 3306 |
 | OWA_AUTH_KEY | Use your own |
 | OWA_AUTH_SALT | Use your own |
 | OWA_NONCE_KEY | Use your own |
